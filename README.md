@@ -44,7 +44,7 @@ Data Structures and Algorithms, Object Oriented Programming, REST APIs, Relation
 
 ## Projects
 
-### StudyFlow
+### Parhaify
 A full-stack student productivity web app built with React and Supabase. Features include course and assignment tracking, a calendar, notes editor, club management, custom workspaces, a Study Assistant that generates AI prompts from uploaded files, and a wellness tracker. Deployed on Vercel with Google OAuth authentication and installable as a PWA on iOS and Android.
 
 **Tech:** React, Supabase, PostgreSQL, Google OAuth, Vercel, PWA, JavaScript, CSS
