@@ -1,6 +1,6 @@
 # Hi, I'm Aayan Areejo
 
-Computer Science student at Toronto Metropolitan University, graduating in 2028. I build full-stack web apps and mobile apps, and am actively looking for a co-op opportunity.
+Computer Science student at Toronto Metropolitan University, graduating in 2029. I build full-stack web apps and mobile apps, and am actively looking for a co-op opportunity.
 
 **LinkedIn:** [linkedin.com/in/aayanareejo](https://www.linkedin.com/in/aayanareejo)
 
