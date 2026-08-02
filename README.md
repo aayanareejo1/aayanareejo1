@@ -1,15 +1,3 @@
-# Hi, I'm Aayan
-
-Third-year Computer Science Co-op student at Toronto Metropolitan University. I build things when something is genuinely bothering me or someone around me, since that feels like the right reason to build anything.
-
-**SkyCast:** Got soaked in the rain mid-commute, so I built a background alert system that compares weather at your home and destination and warns you before you leave.
-
-**Zenvoy:** Was manually copying hundreds of receipts into a spreadsheet every tax season, so I built a receipt scanner where Claude AI handles the extraction and SQLite keeps everything available offline.
-
-**Parhaify:** Had 6 courses and 4 clubs with nothing tracked in one place, so I built a student productivity platform with an AI study assistant and long-term wellness tracking. Parhai means study in Urdu.
-
-All three were built with React Native or React, deployed on Expo or Vercel, and developed using AI-assisted tools throughout.
-
 ## Technical Skills
 
 **Languages:** JavaScript, TypeScript, Python, C, SQL
