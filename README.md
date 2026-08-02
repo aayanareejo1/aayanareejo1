@@ -1,6 +1,6 @@
 ## Technical Skills
 
-**Languages:** JavaScript, TypeScript, Python, C, SQL
+**Languages:** JavaScript, TypeScript, Python, C, C++, Java, Rust, Haskell, SQL
 
 **Frontend / Mobile:** React, React Native, Expo, Next.js, HTML/CSS
 
